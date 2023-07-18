@@ -1,0 +1,4 @@
+python-decouple==3.8
+selenium==4.10.0
+twilio==8.5.0
+undetected-chromedriver==3.5.0
